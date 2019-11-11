@@ -595,6 +595,10 @@ body {
     .do__item{
         display: block;
     }
+    .do__text{
+        display: flex;
+        justify-content: center;
+    }
     .do__item__skill{
         margin: 40px auto;
     }
