@@ -8,8 +8,32 @@ p {
     margin: 0;
 }
 
+h1, h2, h3, h4{margin: 0;}
+
+
+h1{
+    font-size: 20px;
+    font-weight: 300;
+    margin: 0;
+}
+
+h2{
+    font-size: 17px;
+    font-weight: 300;
+    margin: 0; 
+}
+
+h3{
+    font-size: 17px;
+    font-weight: 700;
+}
+
 i {
     color: #595959;
+}
+
+button{
+    text-transform: uppercase;
 }
 
 html {
@@ -373,7 +397,7 @@ body {
     visibility: hidden;
     height: 50px;
     line-height: 50px;
-    background-color: #3366ff;
+    background-color: rgba(51, 102, 255, 1);
     padding-right: 25px;
     padding-left: 25px;
     margin-right: -25px;
@@ -512,9 +536,10 @@ body {
 
 .portfolio__text a{
     text-decoration: none;
-    padding: 10px;
+    margin: 10px;
     color: #595959;
     transition: color .2s linear;
+    cursor: pointer;
 }
 
 .portfolio__text a:first-child{
