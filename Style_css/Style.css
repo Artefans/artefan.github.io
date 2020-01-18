@@ -8,8 +8,6 @@ p {
     margin: 0;
 }
 
-h1, h2, h3, h4{margin: 0;}
-
 h1{
     font-size: 20px;
     font-weight: 300;
@@ -25,6 +23,7 @@ h2{
 h3{
     font-size: 17px;
     font-weight: 700;
+    margin: 0;
 }
 
 i {
@@ -39,6 +38,7 @@ html {
     color: -internal-root-color;
     height: 100%;
 }
+/* BODY */
 
 body {
     height: 100%;
