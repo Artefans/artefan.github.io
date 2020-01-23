@@ -388,6 +388,10 @@ body {
     color: #f1f1f1;
 }
 
+.menu-nav a:last-child{
+    margin-right: 5px;
+}
+
 .menu-nav {
     transition: 0.2s;
     transform: scaleX(0) translateX(0%);
