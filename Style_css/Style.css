@@ -506,8 +506,7 @@ body {
 }
 
 .skills__progres--firebase{
-    width: 100%;
-    background: #acacac;
+    width: 25%;
 }
 
 .skills__progres--html{
@@ -523,8 +522,7 @@ body {
 }
 
 .skills__progres--wordpress{
-    width: 100%;
-    background: #acacac;
+    width: 30%;
 }
 
 .portfolio{
