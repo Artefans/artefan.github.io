@@ -208,7 +208,7 @@ body {
 .btn__left {
     border: 3px solid #3366ff;
     border-radius: 2rem;
-    background: #3366ff;
+    background: #ff33cc;
     padding: 10px 35px;
     color: #fff;
     font-size: 14px;
@@ -219,7 +219,7 @@ body {
 }
 
 .btn__left:hover {
-    color: #3366ff;
+    color: hsl(308, 87%, 41%);
     background-color: #fff;
 }
 
@@ -246,7 +246,7 @@ body {
     content: '';
     width: 60px;
     height: 5px;
-    background-color: #3366ff;
+    background-color: hsl(0, 100%, 60%);
 
     position: absolute;
     bottom: 0;
@@ -254,7 +254,7 @@ body {
 }
 
 .do {
-    background-color: #f2f2f2;
+    background-color: hsl(98, 94%, 51%);
 }
 
 .do__inner {
