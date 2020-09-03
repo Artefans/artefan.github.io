@@ -45,7 +45,7 @@ body {
     padding: 0;
     margin: 0;
 
-    color: #595959;
+    color: red;
 
     font-family: sans-serif;
     background: -moz-linear-gradient(-45deg, #43edd3 0%, #d135ed 100%);
@@ -210,7 +210,7 @@ body {
     border-radius: 2rem;
     background: #3366ff;
     padding: 10px 35px;
-    color: #fff;
+    color: rgb(35, 198, 226);
     font-size: 14px;
     font-weight: 700;
     transition: color .1s linear;
@@ -220,7 +220,7 @@ body {
 
 .btn__left:hover {
     color: #3366ff;
-    background-color: #fff;
+    background-color: black;
 }
 
 /* RIGHT */
